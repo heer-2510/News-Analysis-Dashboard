@@ -88,4 +88,4 @@ This dashboard helps:
 This project can be expanded into a real-time media intelligence system by integrating automated data pipelines and advanced NLP models. With enhanced predictive capabilities and broader geographic coverage, it can support analysts, researchers, and decision-makers in understanding public sentiment trends more effectively.
 
 📸 Dashboard Screenshot
-<img width="1306" height="738" alt="News Analysis" src="https://github.com/user-attachments/assets/21841aef-f0aa-4191-864b-9648d6b25a3d" />
+![News Sentiment & Location Analysis Dashboard](News%20Sentiment.png)
